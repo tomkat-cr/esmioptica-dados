@@ -1,6 +1,14 @@
 # EsMiOptica Dados
 
-Juego de Dados para promociones de EsMiOptica.
+Webapp de Juego de Dados para promociones de EsMiOptica.
+
+## Demo
+
+Para ver la demostración del proyecto, ve a la siguiente URL:
+
+https://otobonh.github.io/esmioptica-dados/
+
+Haz clic en el botón "Jugar" para iniciar el juego.
 
 ![Paso 1](readme_assets/Esmioptica-Dados-2025-06-08_01.png)
 
@@ -11,6 +19,13 @@ Juego de Dados para promociones de EsMiOptica.
 ## Cómo ejecutar en local
 
 Sigue estos pasos para ejecutar la aplicación en tu entorno de desarrollo local:
+
+## Pre-requisitos
+
+- [Git](https://www.atlassian.com/git/tutorials/install-git)
+- Node version 18+, installed via [NVM (Node Package Manager)](https://nodejs.org/en/download/package-manager) or [NPM and Node](https://nodejs.org/en/download) install.
+
+## Instalación
 
 1.  **Navegar al directorio del proyecto:**
     Si ya tienes el código fuente, asegúrate de estar en el directorio raíz del proyecto (`esmioptica-dados`) en tu terminal.
