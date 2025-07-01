@@ -24,6 +24,7 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno de desarrollo local
 
 - [Git](https://www.atlassian.com/git/tutorials/install-git)
 - Node version 18+, installed via [NVM (Node Package Manager)](https://nodejs.org/en/download/package-manager) or [NPM and Node](https://nodejs.org/en/download) install.
+- Make: [Mac](https://formulae.brew.sh/formula/make) | [Windows](https://stackoverflow.com/questions/32127524/how-to-install-and-use-make-in-windows)
 
 ## Instalación
 
@@ -67,8 +68,8 @@ Sigue estos pasos para ejecutar la aplicación en tu entorno de desarrollo local
     npm run build
     ```
 
-4. **Subir la aplicación a Firebase:**
-    Sube la aplicación a Firebase ejecutando:
+4. **Subir la aplicación a GitHub Pages:**
+    Sube la aplicación a GitHub Pages ejecutando:
     ```bash
     npm run deploy
     ```
