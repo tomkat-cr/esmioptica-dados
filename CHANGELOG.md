@@ -22,6 +22,10 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a Ch
 
 ### New
 - Add Github Action to deploy to Github Pages and have a demo.
+- Add Makefile to ease the process of running the app.
+
+### Changes
+- Fix instructions on README adding the "make" pre-requisite and the deployment to Github Pages (not to Firebase).
 
 
 ## 1.0.0 (2025-06-09)
